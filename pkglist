@@ -1,0 +1,31 @@
+pacman ++
+
+lynx
+emacs
+neovim
+ttf-dejavu
+ttf-font-awesome
+alacritty
+zsh
+zsh-syntax-highlighting
+zsh-autosuggestions
+git
+arandr
+pulseaudio
+pulsemixer
+newsboat
+noto-fonts-emoji
+ttf-joypixels
+feh
+github-cli
+pacman --
+
+aur ++
+
+brave-bin
+nerd-fonts-jetbrains-mono
+ly
+libxft-bgra
+
+aur --
+
