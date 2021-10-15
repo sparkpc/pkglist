@@ -18,6 +18,8 @@ noto-fonts-emoji
 ttf-joypixels
 feh
 github-cli
+xmonad
+xmonad-contrib
 pacman --
 
 aur ++
